@@ -1,0 +1,9 @@
+model_params:
+  momentum: 0.9
+  weight_decay: 5e-4
+
+exp_params:
+  LR: 0.05
+  max_epoch: 30
+  seed: 7
+
